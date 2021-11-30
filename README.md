@@ -7,8 +7,8 @@
  #### 5. Favicon implementata V
 Thank you to:
 
- Formspree.io for email form
- ***
- W3School for template
- ***
- Font Awesome for nice font
+ >Formspree.io for email form
+ 
+ >W3School for template
+ 
+ >Font Awesome for nice font
