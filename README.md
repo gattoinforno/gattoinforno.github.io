@@ -8,5 +8,7 @@
 Thank you to:
 
  Formspree.io for email form
+ ***
  W3School for template
+ ***
  Font Awesome for nice font
